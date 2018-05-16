@@ -1,0 +1,1 @@
+# Kinetis_MKM34Z256VLQ7
